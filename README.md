@@ -196,3 +196,4 @@ Lors de votre soutenance avec le professeur :
 ---
 
 *Développé avec passion pour le cours de Mobile Application Development (CS3542) — DAUST 2026.*
+# midtermmobiledev
